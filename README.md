@@ -12,9 +12,11 @@ I am currently majoring in data analysis at Washington State University and stud
 #### 📌 Used at least once
 <img src="https://img.shields.io/badge/C-F09820?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-CC0000?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
 
+### 📈 Stats 📈
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namejun12000&show_icons=true&theme=ocean_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namejun12000&layout=compact)](https://github.com/namejun12000/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namejun12000)](https://github.com/namejun12000/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namejun12000)](https://github.com/namejun12000/github-readme-stats) 
+### ⭐️ Connect with me ⭐️
+  <a href="mailto:namejun12000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=namejun12000@gmail.com"/></a>
 
 
 <!--
