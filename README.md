@@ -24,10 +24,6 @@ I am currently majoring in data analysis at Washington State University and stud
 ### 🗂 Blog 🗂 
 
  <a href="https://namejun12000.github.io//" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
- 
-### 📜 Portfolio 📜
- 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0288D1?style=flat-square&logo=BookStack&logoColor=white"/></a>
 
 
 ### ⭐️ Connect with me ⭐️
