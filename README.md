@@ -14,7 +14,7 @@ I am currently majoring in data analysis at Washington State University and stud
 
 #### 📌 Used at least once
 <img src="https://img.shields.io/badge/C-F09820?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-CC0000?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/>
 
 
 ### 📈 Stats 📈
