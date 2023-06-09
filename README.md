@@ -11,11 +11,17 @@ I am currently majoring in data analysis at Washington State University and stud
 ### 🛠 Tech Stack 🛠
 #### 📌 Used as the main
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=PowerBI&logoColor=white"/>
 
 #### 📌 Used at least once
 <img src="https://img.shields.io/badge/C-F09820?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-CC0000?style=flat-square&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=Neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
 
 ### 📈 Stats 📈
 
