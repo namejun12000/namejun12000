@@ -31,9 +31,9 @@ I am graduated majoring in data analysis at Washington State University and stud
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namejun12000&show_icons=true&theme=ocean_dark) 
 
 
-### 🗂 Portpolio 🗂 
+### 🗂 Portfolio 🗂 
 
- <a href="https://namejun12000.github.io//" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+ <a href="https://namejun12000.github.io//" target="_blank"><img src="https://img.shields.io/badge/Portfolio-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 ### ⭐️ Connect with me ⭐️
