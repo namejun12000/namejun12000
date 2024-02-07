@@ -23,8 +23,6 @@ I am graduated majoring in data analysis at Washington State University and stud
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=Neo4j&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=falt-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=falt-square&logo=CSS3&logoColor=white"/>
 
 ### 📈 Stats 📈
 
