@@ -6,7 +6,7 @@
 Hi Everyone!
 My name is Nam Jun Lee 🖐
 
-I am graduated majoring in data analysis at Washington State University and studying machine learning, data visualization, and database management 📝
+I am graduated majoring in data analytics at Washington State University and studying big data, machine learning, data visualization, and database management, etc. 📝
 
 ### 🛠 Tech Stack 🛠
 #### 📌 Used as the main
